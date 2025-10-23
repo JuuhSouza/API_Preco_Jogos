@@ -14,8 +14,6 @@ public class ApiPrecoJogoApplication implements CommandLineRunner {
 		SpringApplication.run(ApiPrecoJogoApplication.class, args);
 	}
 
-	private final Scanner leitura = new Scanner(System.in);
-
 	@Override
 	public void run(String... args) {
         Main informations = new Main();
