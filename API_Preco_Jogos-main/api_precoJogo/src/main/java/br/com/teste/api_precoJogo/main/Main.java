@@ -32,7 +32,9 @@ public class Main {
             //Ordena pelo menor preço
             games.sort(Comparator.comparingDouble(j -> Double.parseDouble(j.valor())));
 
-            System.out.println("Jogos com preços mais em conta no mercado:");
+            System.out.println("-----------------------------");
+            System.out.println("Melhores preços do jogo: " + name);
+            System.out.println("-----------------------------");
 
             for (GameInformations game : games) {
                 System.out.println("Título: " + game.titulo());
@@ -47,3 +49,4 @@ public class Main {
         }
     }
 }
+
