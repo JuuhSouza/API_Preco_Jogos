@@ -27,7 +27,7 @@ Ideal para quem quer comparar valores de games e verificar promoções em tempo 
 - CheapShark API
   Documentação oficial: [https://apidocs.cheapshark.com](https://apidocs.cheapshark.com)
 
-Link do projeto no canva : https://www.canva.com/design/DAG2pPk5710/Q41_183UCTCGcLHCM2RBrg/edit?utm_content=DAG2pPk5710&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link da apresentação no canva : https://www.canva.com/design/DAG2pPk5710/Q41_183UCTCGcLHCM2RBrg/edit?utm_content=DAG2pPk5710&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ⚙️ Como Executar o Projeto
 
