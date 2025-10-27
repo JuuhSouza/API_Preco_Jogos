@@ -44,7 +44,7 @@ public class Main {
             games.sort(Comparator.comparingDouble(j -> Double.parseDouble(j.valor())));
 
             System.out.println("-----------------------------");
-            System.out.println("Melhores preços do jogo: " + name);
+            System.out.println("Melhores preços de: " + name);
             System.out.println("-----------------------------");
 
             for (GameInformations game : games) {
@@ -67,3 +67,4 @@ public class Main {
     }
     }
 }
+
